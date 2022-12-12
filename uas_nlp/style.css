@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+form>* {
+    border: 2px solid black;
+}
+
+.txt {
+    padding: 10px;
+}
